@@ -10,7 +10,7 @@ class Program
         
         foreach (var device in devices)
         {
-            Console.WriteLine($"ID: {device.ID}, Name: {device.FriendlyName}, Device Type: {device.DataFlow}");
+            Console.WriteLine($"{device.ID},{device.FriendlyName},{device.DataFlow}");
         }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TNc4Rh2VzJ6MmdhCYqAOgmN5vJ7gV0HAdm7ApeLyOnTwv7bbDKFuavqthkVa0AIO9WGSE2JWwU7evM5Jw5rukA==",
+  "dgSpecHash": "hihbH+a50aCt5PeAjggP49KGg6huOBqmkOdmPz1rfRXvy7iZ8RLWXZRlo8xLEIMhdfDBTb3KLFKUbDtnXDLEvw==",
   "success": true,
-  "projectFilePath": "e:\\Documenti\\Progetti\\mmdevices\\mmdevices.csproj",
+  "projectFilePath": "E:\\Documenti\\Progetti\\mmdevices\\mmdevices.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Paul\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Paul\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

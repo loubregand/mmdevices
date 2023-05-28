@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\Documenti\\Progetti\\mmdevices\\mmdevices.csproj": {}
+    "E:\\Documenti\\Progetti\\mmdevices\\mmdevices.csproj": {}
   },
   "projects": {
-    "e:\\Documenti\\Progetti\\mmdevices\\mmdevices.csproj": {
+    "E:\\Documenti\\Progetti\\mmdevices\\mmdevices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Documenti\\Progetti\\mmdevices\\mmdevices.csproj",
+        "projectUniqueName": "E:\\Documenti\\Progetti\\mmdevices\\mmdevices.csproj",
         "projectName": "mmdevices",
-        "projectPath": "e:\\Documenti\\Progetti\\mmdevices\\mmdevices.csproj",
+        "projectPath": "E:\\Documenti\\Progetti\\mmdevices\\mmdevices.csproj",
         "packagesPath": "C:\\Users\\Paul\\.nuget\\packages\\",
-        "outputPath": "e:\\Documenti\\Progetti\\mmdevices\\obj\\",
+        "outputPath": "E:\\Documenti\\Progetti\\mmdevices\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Paul\\AppData\\Roaming\\NuGet\\NuGet.Config",
